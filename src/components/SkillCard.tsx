@@ -15,7 +15,6 @@ const SkillCard = ({ icon }) => {
             }}
             ref={ref}
         >
-        {/* <motion.div style={{background: "#fff", borderRadius: "5px", padding: "0.7em 0.5em", overflow: "hidden"}} viewport={{ once: true }}> */}
             <Grid container alignItems="center" spacing={2}>
                 <Grid
                     item
@@ -33,8 +32,7 @@ const SkillCard = ({ icon }) => {
                                 filter: inView
                                     ? "grayscale(0)"
                                     : "grayscale(1)",
-                                opacity: inView ? 1 : 0.2,
-                                transition: "all 0.3s ease-in .5s",
+                                transition: "all 0.3s ease-in .8s",
                             }}
                         />
                     </Grid>
@@ -48,7 +46,6 @@ const SkillCard = ({ icon }) => {
                     <p>{icon.text}</p>
                 </Grid>
             </Grid>
-            {/* </motion.div> */}
         </Paper>
     );
 };
