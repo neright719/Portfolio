@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-y: scroll;
+  font-family: 'Noto Sans JP', sans-serif;
+  background: radial-gradient( circle farthest-corner at 32.7% 82.7%,  rgba(173,0,171,1) 8.3%, rgba(15,51,92,1) 79.4% );
+}
+
+@keyframes bg {
+  0% {
+    background: #fff;
+  }
+  
+  100% {
+    background: transparent;
+  }
+}
+
+
+@keyframes draw {
+  0% {
+    opacity: 0;
+    filter: brightness(300%) contrast(300%) grayscale(100%) saturate(0%);
+  }
+  25% {
+  }
+  
+  50% {
+    opacity: 1;
+    filter: brightness(300%) contrast(300%) grayscale(100%) saturate(0%);
+  }
+  
+  75% {
+    filter: brightness(200%) contrast(200%) grayscale(50%) saturate(0%);
+  }
+
+  100% {
+    filter: brightness(100%) contrast(100%) grayscale(0%) saturate(100%);
+  }
+}
+

@@ -1,0 +1,192 @@
+[
+    {
+        "type": "font",
+        "name": "HTML5",
+        "grayClassName": "devicon-html5-plain",
+        "colorClassName": "devicon-html5-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+        "text": "Emmetによるマークアップを行える。\n適切なmetaタグの挿入も行える"
+    },
+    {
+        "type": "font",
+        "name": "CSS3",
+        "grayClassName": "devicon-css3-plain",
+        "colorClassName": "devicon-css3-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+        "text": "一番得意。flex,grid,animationなどを扱える。"
+    },
+    {
+        "type": "font",
+        "name": "tailwindcss",
+        "grayClassName": "devicon-tailwindcss-plain",
+        "colorClassName": "devicon-tailwindcss-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+        "text": "業務で使用。postCSS,AutoPrefixerの設定も可。"
+    },
+    {
+        "type": "font",
+        "name": "javascript",
+        "grayClassName": "devicon-javascript-plain",
+        "colorClassName": "devicon-javascript-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+        "text": "プログラミング言語の中では一番得意。アロー関数やスプレッド構文、ショートハンドなども扱える。"
+    },
+    {
+        "type": "font",
+        "name": "typescript",
+        "grayClassName": "devicon-typescript-plain",
+        "colorClassName": "devicon-typescript-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+        "text": "現在学習中。tscによるコンパイル実行、基本的な型付は可能。"
+    },
+    {
+        "type": "font",
+        "name": "nodejs",
+        "grayClassName": "devicon-nodejs-plain",
+        "colorClassName": "devicon-nodejs-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+        "text": "フロントエンド環境構築で主に使用。"
+    },
+    {
+        "type": "font",
+        "name": "npm",
+        "grayClassName": "devicon-npm-original-wordmark",
+        "colorClassName": "devicon-npm-original-wordmark colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg",
+        "text": "フロントエンド環境構築で主に使用。コマンドやpackage.json、node_modulesについて理解。"
+    },
+    {
+        "type": "font",
+        "name": "jquery",
+        "grayClassName": "devicon-jquery-plain",
+        "colorClassName": "devicon-jquery-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg",
+        "text": "バージョン1系統から使用しており、自由に扱える。"
+    },
+    {
+        "type": "font",
+        "name": "react",
+        "grayClassName": "devicon-react-original",
+        "colorClassName": "devicon-react-original colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+        "text": "簡単なアプリケーションの作成、ライフサイクルの理解。"
+    },
+    {
+        "type": "font",
+        "name": "python",
+        "grayClassName": "devicon-python-plain",
+        "colorClassName": "devicon-python-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+        "text": "BeautifulSoup,Seleniumによるスクレイピング、クロールなどを行う。ローカルで少しだけDjangoを触る。"
+    },
+    {
+        "type": "font",
+        "name": "selenium",
+        "grayClassName": "devicon-selenium-original",
+        "colorClassName": "devicon-selenium-original colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg",
+        "text": "業務において、SeleniumをラップしたGUIアプリケーションを使用。一部Pythonで拡張を実施。"
+    },
+    {
+        "type": "font",
+        "name": "php",
+        "grayClassName": "devicon-php-plain",
+        "colorClassName": "devicon-php-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
+        "text": "簡単なCRUDアプリケーションの作成を行う。"
+    },
+    {
+        "type": "font",
+        "name": "laravel",
+        "grayClassName": "devicon-laravel-plain",
+        "colorClassName": "devicon-laravel-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg",
+        "text": "バニラで実装したCRUDアプリケーションの書き直しを行う。"
+    },
+    {
+        "type": "font",
+        "name": "mysql",
+        "grayClassName": "devicon-mysql-plain",
+        "colorClassName": "devicon-mysql-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+        "text": "基礎的なCRUDの実行ができる。where句による簡単な条件指定を行える。"
+    },
+    {
+        "type": "font",
+        "name": "docker",
+        "grayClassName": "devicon-docker-plain",
+        "colorClassName": "devicon-docker-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+        "text": "Laravel環境の構築で使用。DockerFileの編集や、docker-compose.yamlの編集を行える。"
+    },
+    {
+        "type": "font",
+        "name": "git",
+        "grayClassName": "devicon-git-plain",
+        "colorClassName": "devicon-git-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+        "text": "add,commitなど基本操作を行える他、ブランチの切り替えを行える。"
+    },
+    {
+        "type": "font",
+        "name": "github",
+        "grayClassName": "devicon-github-original",
+        "colorClassName": "devicon-github-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+        "text": "Push,Pull他、GitHub Pagesへのデプロイを行う。"
+    },
+    {
+        "type": "font",
+        "name": "bash",
+        "grayClassName": "devicon-bash-plain",
+        "colorClassName": "devicon-bash-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg",
+        "text": "基礎的なコマンドは使用可能。chmodなど権限周りも実行可能。パイプも理解。"
+    },
+    {
+        "type": "font",
+        "name": "debian",
+        "grayClassName": "devicon-debian-plain",
+        "colorClassName": "devicon-debian-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg",
+        "text": "現在自宅PCにWSL2環境を構築しており、Debianをインストールし使用している。"
+    },
+    {
+        "type": "font",
+        "name": "ubuntu",
+        "grayClassName": "devicon-ubuntu-plain",
+        "colorClassName": "devicon-ubuntu-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg",
+        "text": "過去にメインPCにインストールし使用していた経験あり。"
+    },
+    {
+        "type": "font",
+        "name": "slack",
+        "grayClassName": "devicon-slack-plain",
+        "colorClassName": "devicon-slack-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg",
+        "text": "業務で使用のほか、個人開発でAPIを使用。"
+    },
+    {
+        "type": "font",
+        "name": "figma",
+        "grayClassName": "devicon-figma-plain",
+        "colorClassName": "devicon-figma-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+        "text": "業務や個人開発において使用。簡単なワイヤーフレーム、プロトタイプの作成を行える。"
+    },
+    {
+        "type": "font",
+        "name": "blender",
+        "grayClassName": "devicon-blender-original",
+        "colorClassName": "devicon-blender-original colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg",
+        "text": "3Dソフトウェア。趣味で使用。"
+    },
+    {
+        "type": "svg",
+        "name": "gimp",
+        "colorClassName": "devicon-html5-plain colored",
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"
+    }
+]
