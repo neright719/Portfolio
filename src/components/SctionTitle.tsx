@@ -7,7 +7,7 @@ type Props = {
     subtitle: string;
 };
 
-const SectionTitle: React.FC<Props> = ({ title, subtitle }) => {
+const SectionTitle = ({ title, subtitle }:{title:string, subtitle: string}) => {
     return (
         <Grid
             item

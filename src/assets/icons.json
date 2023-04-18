@@ -5,7 +5,7 @@
         "grayClassName": "devicon-html5-plain",
         "colorClassName": "devicon-html5-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
-        "text": "Emmetによるマークアップを行える。\n適切なmetaタグの挿入も行える。"
+        "text": "Emmetによるマークアップを行える。適切なmetaタグの挿入も行える。"
     },
     {
         "type": "font",
@@ -25,7 +25,7 @@
     },
     {
         "type": "font",
-        "name": "javascript",
+        "name": "JavaScript",
         "grayClassName": "devicon-javascript-plain",
         "colorClassName": "devicon-javascript-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
@@ -33,7 +33,7 @@
     },
     {
         "type": "font",
-        "name": "typescript",
+        "name": "TypeScript",
         "grayClassName": "devicon-typescript-plain",
         "colorClassName": "devicon-typescript-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
@@ -41,7 +41,7 @@
     },
     {
         "type": "font",
-        "name": "nodejs",
+        "name": "Node.js",
         "grayClassName": "devicon-nodejs-plain",
         "colorClassName": "devicon-nodejs-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
@@ -57,7 +57,7 @@
     },
     {
         "type": "font",
-        "name": "jquery",
+        "name": "jQuery",
         "grayClassName": "devicon-jquery-plain",
         "colorClassName": "devicon-jquery-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg",
@@ -65,7 +65,7 @@
     },
     {
         "type": "font",
-        "name": "react",
+        "name": "React",
         "grayClassName": "devicon-react-original",
         "colorClassName": "devicon-react-original colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
@@ -73,7 +73,7 @@
     },
     {
         "type": "font",
-        "name": "python",
+        "name": "Python",
         "grayClassName": "devicon-python-plain",
         "colorClassName": "devicon-python-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
@@ -81,15 +81,15 @@
     },
     {
         "type": "font",
-        "name": "selenium",
+        "name": "Selenium",
         "grayClassName": "devicon-selenium-original",
         "colorClassName": "devicon-selenium-original colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg",
-        "text": "業務において、SeleniumをラップしたGUIアプリケーションを使用。一部Pythonで拡張を実施。"
+        "text": "スクレイピングで使用の他、業務においてSeleniumをラップしたGUIアプリケーションを使用。"
     },
     {
         "type": "font",
-        "name": "php",
+        "name": "PHP",
         "grayClassName": "devicon-php-plain",
         "colorClassName": "devicon-php-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
@@ -97,7 +97,7 @@
     },
     {
         "type": "font",
-        "name": "laravel",
+        "name": "Laravel",
         "grayClassName": "devicon-laravel-plain",
         "colorClassName": "devicon-laravel-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg",
@@ -105,15 +105,15 @@
     },
     {
         "type": "font",
-        "name": "mysql",
+        "name": "MySQL",
         "grayClassName": "devicon-mysql-plain",
         "colorClassName": "devicon-mysql-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
-        "text": "基礎的なCRUDの実行ができる。where句による簡単な条件指定を行える。"
+        "text": "基礎的なCRUDの実行が行える。where句による簡単な条件指定を行える。"
     },
     {
         "type": "font",
-        "name": "docker",
+        "name": "Docker",
         "grayClassName": "devicon-docker-plain",
         "colorClassName": "devicon-docker-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
@@ -121,7 +121,7 @@
     },
     {
         "type": "font",
-        "name": "git",
+        "name": "Git",
         "grayClassName": "devicon-git-plain",
         "colorClassName": "devicon-git-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
@@ -129,7 +129,7 @@
     },
     {
         "type": "font",
-        "name": "github",
+        "name": "GitHub",
         "grayClassName": "devicon-github-original",
         "colorClassName": "devicon-github-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
@@ -153,7 +153,7 @@
     },
     {
         "type": "font",
-        "name": "ubuntu",
+        "name": "Ubuntu",
         "grayClassName": "devicon-ubuntu-plain",
         "colorClassName": "devicon-ubuntu-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg",
@@ -161,7 +161,7 @@
     },
     {
         "type": "font",
-        "name": "slack",
+        "name": "Slack",
         "grayClassName": "devicon-slack-plain",
         "colorClassName": "devicon-slack-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg",
@@ -169,7 +169,7 @@
     },
     {
         "type": "font",
-        "name": "figma",
+        "name": "Figma",
         "grayClassName": "devicon-figma-plain",
         "colorClassName": "devicon-figma-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
@@ -177,7 +177,7 @@
     },
     {
         "type": "font",
-        "name": "blender",
+        "name": "Blender",
         "grayClassName": "devicon-blender-original",
         "colorClassName": "devicon-blender-original colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg",
@@ -185,7 +185,7 @@
     },
     {
         "type": "svg",
-        "name": "gimp",
+        "name": "GIMP",
         "colorClassName": "devicon-html5-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg",
         "text": "Photoshopライクな画像編集ソフト。WEBデザインで主に使用。"

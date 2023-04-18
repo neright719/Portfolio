@@ -1,8 +1,8 @@
 import { Grid } from "@mui/material";
-import { motion, useInView } from "framer-motion";
+import { AnimationControls, motion, useInView } from "framer-motion";
 import { useRef } from "react";
 
-const SkillCard = ({ icon, controls, index }) => {
+const SkillCard = ({ icon, controls, index }: {icon:any, controls:AnimationControls , index:number}) => {
     const ref = useRef(null);
     const inView = useInView(ref, {
         once: true,

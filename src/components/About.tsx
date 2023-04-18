@@ -30,7 +30,6 @@ const About = () => {
                         width: "100%",
                         aspectRatio: "1/1",
                         objectFit: "cover",
-                        // borderRadius: "50%",
                         clipPath: "circle(50% at 50% 50%)",
                         filter: "grayscale(0.3)",
                     }}
@@ -64,7 +63,7 @@ const About = () => {
                 <motion.div
                     style={{
                         background: "white",
-                        padding: "2em",
+                        padding: "1em 2em",
                         borderRadius: "5px",
                     }}
                     variants={{
@@ -113,27 +112,27 @@ const About = () => {
                             lineHeight: "1.5em",
                         }}
                     >
-                        <p style={{ marginBottom: ".8em" }}>
+                        <p style={{ marginBottom: ".5em" }}>
                             小学生の時に流行していたAmebaブログを始め、CSSでデザインをカスタマイズし始めたことがきっかけとなりIT技術に興味を持つ。
                         </p>
-                        <p style={{ marginBottom: ".8em" }}>
-                            javascriptが一番初めに触ったプログラミング言語。ライブラリのjQueryは当時流行していたこともあり不便なく扱える。
+                        <p style={{ marginBottom: ".5em" }}>
+                            JavaScriptが一番初めに触ったプログラミング言語。ライブラリのjQueryは当時流行していたこともあり不便なく扱える。
                         </p>
-                        <p style={{ marginBottom: ".8em" }}>
+                        <p style={{ marginBottom: ".5em" }}>
                             その後、Pythonを使用したスクレイピングを主に行う。
                         </p>
-                        <p style={{ marginBottom: ".8em" }}>
+                        <p style={{ marginBottom: ".5em" }}>
                             仮想化環境の構築やローカルサーバーの構築を行い、後にLinuxをメインPCとして使う中でLinuxコマンドも習得。
                         </p>
-                        <p style={{ marginBottom: ".8em" }}>
+                        <p style={{ marginBottom: ".5em" }}>
                             コンビニの店長/マネージャーを長期務め、傍らGASでクローラーの作成やLINE
                             Notify APIを使用したBotを作成する。
                         </p>
-                        <p style={{ marginBottom: ".8em" }}>
-                            2022年1月 IT業界へ転職。現在は主にReactを学習中。
+                        <p style={{ marginBottom: ".5em" }}>
+                            2022年1月 IT業界へ転職。研修ではVBAおよびPHPを学習。
                         </p>
-                        <p style={{ marginBottom: ".8em" }}>
-                            小学生の頃に始めたブログをカスタマイズするためにCSSを触ったことがきっかけとなりIT系の独学を始める。
+                        <p style={{ marginBottom: ".5em" }}>
+                            現在は主にReactを学習中。
                         </p>
                     </div>
                 </motion.div>

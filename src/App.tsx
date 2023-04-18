@@ -1,7 +1,7 @@
 import { Container, Grid } from "@mui/material";
 import About from "./components/About";
 import Hero from "./components/Hero";
-import Production from "./components/Production";
+import Production from "./components/Work";
 import Skills from "./components/Skills";
 
 const App: React.FC = () => {

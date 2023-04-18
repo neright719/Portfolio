@@ -12,7 +12,7 @@ const Production = () => {
                 marginBottom: "4em",
             }}
         >
-            <SectionTitle title="Product" subtitle="制作物" />
+            <SectionTitle title="Work" subtitle="制作物" />
             <Grid item xs={12}>
                 <motion.div
                     style={{
@@ -66,10 +66,11 @@ const Production = () => {
                         <div>
                             <Chip label="使用技術" variant="outlined" />
                             <ul style={{ paddingLeft: "1em" }}>
-                                <li>javascript/React</li>
-                                <li>web speech api</li>
-                                <li>mui</li>
-                                <li>framer motion</li>
+                                <li>JavaScript</li>
+                                <li>Web Speech API</li>
+                                <li>React</li>
+                                <li>MUI</li>
+                                <li>Framer Motion</li>
                                 <li>GitHub Pages</li>
                             </ul>
                         </div>
