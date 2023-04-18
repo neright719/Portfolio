@@ -5,7 +5,7 @@
         "grayClassName": "devicon-html5-plain",
         "colorClassName": "devicon-html5-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
-        "text": "Emmetによるマークアップを行える。\n適切なmetaタグの挿入も行える"
+        "text": "Emmetによるマークアップを行える。\n適切なmetaタグの挿入も行える。"
     },
     {
         "type": "font",
@@ -13,7 +13,7 @@
         "grayClassName": "devicon-css3-plain",
         "colorClassName": "devicon-css3-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
-        "text": "一番得意。flex,grid,animationなどを扱える。"
+        "text": "一番得意。flex,grid,animationなども扱える。"
     },
     {
         "type": "font",
@@ -21,7 +21,7 @@
         "grayClassName": "devicon-tailwindcss-plain",
         "colorClassName": "devicon-tailwindcss-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
-        "text": "業務で使用。postCSS,AutoPrefixerの設定も可。"
+        "text": "業務で使用。postCSS,AutoPrefixerの設定も行う。"
     },
     {
         "type": "font",
@@ -45,7 +45,7 @@
         "grayClassName": "devicon-nodejs-plain",
         "colorClassName": "devicon-nodejs-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
-        "text": "フロントエンド環境構築で主に使用。"
+        "text": "フロントエンド環境構築で使用。"
     },
     {
         "type": "font",
@@ -53,7 +53,7 @@
         "grayClassName": "devicon-npm-original-wordmark",
         "colorClassName": "devicon-npm-original-wordmark colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg",
-        "text": "フロントエンド環境構築で主に使用。コマンドやpackage.json、node_modulesについて理解。"
+        "text": "フロントエンド環境構築で使用。各種コマンドやpackage.json、node_modulesについて理解。"
     },
     {
         "type": "font",
@@ -69,7 +69,7 @@
         "grayClassName": "devicon-react-original",
         "colorClassName": "devicon-react-original colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
-        "text": "簡単なアプリケーションの作成、ライフサイクルの理解。"
+        "text": "現在学習中。主にviteで開発環境を構築。ライフサイクル、useEffectについて理解。"
     },
     {
         "type": "font",
@@ -93,7 +93,7 @@
         "grayClassName": "devicon-php-plain",
         "colorClassName": "devicon-php-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
-        "text": "簡単なCRUDアプリケーションの作成を行う。"
+        "text": "研修で簡単なCRUDアプリケーションの作成を行う。"
     },
     {
         "type": "font",
@@ -101,7 +101,7 @@
         "grayClassName": "devicon-laravel-plain",
         "colorClassName": "devicon-laravel-plain colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg",
-        "text": "バニラで実装したCRUDアプリケーションの書き直しを行う。"
+        "text": "研修で作成したPHPによるCRUDアプリケーションの書き直しを行う。"
     },
     {
         "type": "font",
@@ -181,12 +181,13 @@
         "grayClassName": "devicon-blender-original",
         "colorClassName": "devicon-blender-original colored",
         "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg",
-        "text": "3Dソフトウェア。趣味で使用。"
+        "text": "3Dソフト。趣味で使用。"
     },
     {
         "type": "svg",
         "name": "gimp",
         "colorClassName": "devicon-html5-plain colored",
-        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg",
+        "text": "Photoshopライクな画像編集ソフト。WEBデザインで主に使用。"
     }
 ]

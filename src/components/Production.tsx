@@ -1,5 +1,5 @@
-import React from "react";
-import { Grid, Paper } from "@mui/material";
+import { Chip, Grid, Link } from "@mui/material";
+import { motion } from "framer-motion";
 import img from "../assets/NGSLTyping_SC.png";
 import SectionTitle from "./SctionTitle";
 
@@ -7,23 +7,74 @@ const Production = () => {
     return (
         <Grid
             container
-            direction="column"
             spacing={2}
-            justifyContent="center"
+            sx={{
+                marginBottom: "4em",
+            }}
         >
-            <SectionTitle title="Product" subtitle="制作物"/>
-            <Grid item xs={8}>
-                <Paper sx={{padding: "2em"}}>
-                    <a href="">
-                        <span>NGSL Typing β版</span>
+            <SectionTitle title="Product" subtitle="制作物" />
+            <Grid item xs={12}>
+                <motion.div
+                    style={{
+                        background: "white",
+                        borderRadius: "5px",
+                    }}
+                    variants={{
+                        hide: {
+                            x: -30,
+                            opacity: 0,
+                        },
+                        show: {
+                            x: 0,
+                            opacity: 1,
+                        },
+                    }}
+                    initial="hide"
+                    whileInView="show"
+                    viewport={{
+                        once: true,
+                        margin: "0px 0px -20% 0px",
+                    }}
+                    transition={{
+                        duration: 0.5,
+                    }}
+                >
+                    <p style={{ padding: "1em" }}>
+                        <Link href="https://neright719.github.io/NGSLTyping/">
+                            NGSL Typing β版
+                        </Link>
+                    </p>
+                    <Link href="https://neright719.github.io/NGSLTyping/">
                         <img
                             style={{
                                 width: "100%",
                             }}
                             src={img}
                         />
-                    </a>
-                </Paper>
+                    </Link>
+                    <div style={{ padding: "1em" }}>
+                        <div style={{ marginBottom: "1em" }}>
+                            <p>英単語学習用タイピングゲーム</p>
+                            <p>
+                                一般英会話で使用される英単語の90%以上をカバーできるというNGSL英単語リストの記憶を目的としたタイピングゲーム。
+                            </p>
+                            <p>
+                                Web Speech
+                                APIで単語の音声を再生させ、リスニングも同時に行える。
+                            </p>
+                        </div>
+                        <div>
+                            <Chip label="使用技術" variant="outlined" />
+                            <ul style={{ paddingLeft: "1em" }}>
+                                <li>javascript/React</li>
+                                <li>web speech api</li>
+                                <li>mui</li>
+                                <li>framer motion</li>
+                                <li>GitHub Pages</li>
+                            </ul>
+                        </div>
+                    </div>
+                </motion.div>
             </Grid>
         </Grid>
     );

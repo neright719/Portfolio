@@ -13,18 +13,16 @@ const SectionTitle: React.FC<Props> = ({ title, subtitle }) => {
             item
             container
             alignItems="baseline"
-            sx={{ color: "#fff" }}
+            sx={{ color: "#333" }}
+            xs={12}
             spacing={1}
         >
             <Grid item>
-                <motion.div
-                    initial={{ x: -100, opacity: 0 }}
-                    whileInView={{ x: 0, opacity: 1 }}
-                    viewport={{ once: true, margin: "0px 0px -30% 0px" }}
-                >
+                <motion.div>
                     <Typography
                         variant="h2"
                         sx={{
+                            textShadow: "-1px -1px 1px #000000, 1px 1px #ccc",
                             fontWeight: "bold",
                         }}
                     >
@@ -33,12 +31,8 @@ const SectionTitle: React.FC<Props> = ({ title, subtitle }) => {
                 </motion.div>
             </Grid>
             <Grid item>
-                <motion.div
-                    initial={{ y: 100, opacity: 0 }}
-                    whileInView={{ y: 0, opacity: 1 }}
-                    viewport={{ once: true, margin: "0px 0px -23% 0px" }}
-                >
-                    <Typography>{subtitle}</Typography>
+                <motion.div>
+                    <Typography sx={{fontWeight: "bold"}}>{subtitle}</Typography>
                 </motion.div>
             </Grid>
         </Grid>
